@@ -1,0 +1,11 @@
+This is a discussion groups service agent. For now there is little docs, but
+I'm going to write necessary things soon.
+
+All settings should be in listmgr.cfg file (.ini-like file), description is
+currently in settings.py.
+
+Dependencies:
+xmpppy (http://xmpppy.sf.net)
+pysqlite2 (http://pysqlite.org)
+
+Tomasz Melcer
